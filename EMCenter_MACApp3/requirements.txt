@@ -1,0 +1,9 @@
+customtkinter>=5.2
+darkdetect>=0.8
+packaging>=23.0
+pyvisa>=1.13
+pyvisa-py>=0.7
+python-vxi11>=0.9
+standard-xdrlib; python_version>="3.13"
+setuptools>=42.0.0
+pyinstaller>=6.0
