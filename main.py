@@ -32,7 +32,7 @@ the app bundle, so they survive updates and are easy to hand-edit):
   ~/Library/Application Support/EMCenter/settings.json
       Auto-saved runtime state: last-used IP, last speed per axis.
 
-Author: Rajesh (GUI scaffolding by Claude)
+Author: Rajesh
 """
 
 import sys
